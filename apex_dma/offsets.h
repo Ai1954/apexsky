@@ -1,5 +1,5 @@
 // Date 4/9/2024
-// GameVersion=v3.0.63.32
+// GameVersion=v3.0.64.39
 
 #define OFFSET_ITEM_ID 0x1538           // item id?      //updated 2/14/2024
 #define OFFSET_M_CUSTOMSCRIPTINT 0x1538 // m_customScriptInt //updated 2/14/2024
